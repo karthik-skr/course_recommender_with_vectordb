@@ -1,4 +1,4 @@
-# Real-Time Market Sentiment Analyzer Using LangChain Chains
+# Personalized Course Recommendation Engine using VectorDB(Chroma DB)
 ## Prerequisites:
 - create a Open AI service in the azure portal
 - And Deploy a `text-embedding-ada-002` in Azure AI Foundry
